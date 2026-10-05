@@ -1,0 +1,15 @@
+{
+  "name": "superdocs",
+  "description": "Claude plugins from Superdocs, the makers of CiteLLM.",
+  "owner": {
+    "name": "Superdocs",
+    "url": "https://citellm.com"
+  },
+  "plugins": [
+    {
+      "name": "citellm",
+      "source": "./",
+      "description": "Verify claims against your PDFs and inspect the exact evidence in an interactive, highlighted document viewer."
+    }
+  ]
+}

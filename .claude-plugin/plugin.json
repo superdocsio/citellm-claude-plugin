@@ -1,0 +1,20 @@
+{
+  "name": "citellm",
+  "displayName": "CiteLLM",
+  "version": "0.1.0",
+  "description": "Verify claims against your PDFs and inspect the exact evidence in an interactive, highlighted document viewer.",
+  "author": {
+    "name": "Superdocs",
+    "url": "https://citellm.com"
+  },
+  "homepage": "https://citellm.com",
+  "repository": "https://github.com/superdocsio/citellm-claude-plugin",
+  "license": "MIT",
+  "keywords": ["pdf", "citations", "evidence", "fact-checking", "highlights"],
+  "mcpServers": {
+    "citellm": {
+      "type": "http",
+      "url": "https://mcp.citellm.com/mcp"
+    }
+  }
+}
