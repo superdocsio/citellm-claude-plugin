@@ -9,7 +9,7 @@
     {
       "name": "citellm",
       "source": "./",
-      "description": "Verify claims against your PDFs and inspect the exact evidence in an interactive, highlighted document viewer."
+      "description": "Answers from your PDFs, cited to the exact passage and highlighted in an interactive viewer."
     }
   ]
 }

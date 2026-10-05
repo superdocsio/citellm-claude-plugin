@@ -52,5 +52,5 @@ claude plugin install citellm@superdocs
 
 ## Support
 
-Open an issue in this repository, or visit [citellm.com](https://citellm.com).
+Email [citellm@superdocs.io](mailto:citellm@superdocs.io), or see [citellm.com/claude](https://citellm.com/claude).
 CiteLLM is made by Superdocs.
