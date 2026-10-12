@@ -1,7 +1,7 @@
 {
   "name": "citellm",
   "displayName": "CiteLLM",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "Answers from your PDFs, cited to the exact passage and highlighted in an interactive viewer.",
   "author": {
     "name": "Superdocs",
