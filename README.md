@@ -18,6 +18,10 @@ Attach a PDF and ask, for example:
 - "What were fiscal 2025 net sales and employee numbers in this 10-K? Show me where each figure comes from."
 - "Compare the termination clauses in these two contracts."
 
+To try it without uploading your own file, use the
+[sample Apple 10-K](https://citellm.com/samples/apple10k.pdf), or ask Claude:
+"Use CiteLLM on `https://citellm.com/samples/apple10k.pdf` to check fiscal 2025 net sales and employee count with highlighted evidence."
+
 ## Sign in
 
 The first time Claude uses CiteLLM, it asks you to connect your CiteLLM account.
